@@ -21,7 +21,7 @@ void draw(){ // calling class
   } // display total dots
   
   fill(255);
-  text("total: ", 20, 450); // total text
+  text("Total: ", 20, 450); // total text
   text(sum, 50, 450); // number of dots text
 } 
 
